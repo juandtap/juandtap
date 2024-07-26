@@ -2,7 +2,7 @@
 
 Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Science Engineering student at Universidad Politécnica Salesiana.
 
-## Technologies I Use
+## Languages and Tools:
 
 - **Programming Languages:**
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
