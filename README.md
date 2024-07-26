@@ -29,6 +29,10 @@ Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Scie
 - **[Image Classification Project](https://github.com/juandtap/image-classification):** Using OpenCV and SVM for logo classification.
 - **[Bluetooth Data Transmission App](https://github.com/juandtap/bluetooth-app):** Developed in Python for the UNESCO Chair at UPS.
 
+## My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandtap&layout=compact)
+
 ## Contact
 
 - **Email:** [tapiadiego16@gmail.com](mailto:tapiadiego16@gmail.com)
