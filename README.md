@@ -30,6 +30,8 @@ Hello! I'm a technology enthusiast and a Computer Science Engineering student at
 
 - **[Bluetooth Data Transmission App](https://github.com/juandtap/SalaMultiSensorial):**  Desktop App developed in Python (using Qt5) for the CATEDRA UNESCO  at UPS
 
+- **[Heart Attack Prediction using Random Forest and SVM](https://github.com/juandtap/ML_Random_Forest_SVM):** Jupyter Notebooks for Heart Attack Prediction using Random Forest and SVM, with fine-tuning to optimize model performance and achieve the best predictive accuracy.
+
 ## My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandtap&layout=compact&hide=Jupyter%20Notebook,HTML)
