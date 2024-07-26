@@ -31,7 +31,7 @@ Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Scie
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandtap&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandtap&layout=compact&hide=Jupyter%20Notebook,HTML)
 
 ## Contact
 
