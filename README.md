@@ -44,6 +44,9 @@ Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Scie
 
 I am a Computer Science Engineering student with a focus on teamwork and adaptability, leadership skills, communication, and self-learning. I am passionate about artificial intelligence, Data Science and backend development.
 
+I am also a Linux enthusiast and use both Debian ![Debian](https://img.shields.io/badge/Debian-%23A80030?style=for-the-badge&logo=debian&logoColor=white) and Arch-based distributions ![Arch](https://img.shields.io/badge/Arch-%230A84FF?style=for-the-badge&logo=arch-linux&logoColor=white). I enjoy exploring different Linux environments and customizing them to optimize my workflow.
+
+
 ### Future Goals
 
 My goal is to secure an international position where I can contribute my skills and expertise while continuing to grow professionally. I am particularly interested in roles that allow me to work on cutting-edge AI technologies, innovative backend solutions, and data analysis or data science.
