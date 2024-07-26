@@ -26,8 +26,9 @@ Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Scie
 
 ## Featured Projects
 
-- **[Image Classification Project](https://github.com/juandtap/image-classification):** Using OpenCV and SVM for logo classification.
-- **[Bluetooth Data Transmission App](https://github.com/juandtap/bluetooth-app):** Developed in Python for the UNESCO Chair at UPS.
+- **[Predicting bank marketing with AI](https://github.com/juandtap/MachineLearningServices):** Using Python with Django for the deployment of Machine Learning classifiers (Naive Bayes and Neural Networks) for marketing campaign classification.
+
+- **[Bluetooth Data Transmission App](https://github.com/juandtap/SalaMultiSensorial):**  Desktop App developed in Python (using Qt5) for the CATEDRA UNESCO  at UPS
 
 ## My GitHub Stats
 
