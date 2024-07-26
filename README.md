@@ -42,4 +42,10 @@ Hello! I'm Juan Diego Tapia Vasquez, a technology enthusiast and a Computer Scie
 
 ## More About Me
 
-I am a Computer Science Engineering student with a focus on teamwork and adaptability, leadership skills, communication, and self-learning. I am passionate about artificial intelligence and backend development.
+I am a Computer Science Engineering student with a focus on teamwork and adaptability, leadership skills, communication, and self-learning. I am passionate about artificial intelligence, Data Science and backend development.
+
+### Future Goals
+
+My goal is to secure an international position where I can contribute my skills and expertise while continuing to grow professionally. I am particularly interested in roles that allow me to work on cutting-edge AI technologies, innovative backend solutions, and data analysis or data science.
+
+Feel free to reach out to me if you would like to discuss potential collaborations, job opportunities, or simply to connect!
