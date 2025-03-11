@@ -1,6 +1,6 @@
 # Juan Diego Tapia Vasquez
 
-Hello! I'm a technology enthusiast and a Computer Science Engineering student at Universidad Politécnica Salesiana.
+Hello! I am a technology enthusiast and a graduate of Computer Engineering at Universidad Politécnica Salesiana (Ecuador)
 
 ## Languages and Tools:
 
