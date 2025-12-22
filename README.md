@@ -113,6 +113,8 @@ pipelines, and data-driven solutions.
 - **Email:** [tapiadiego16@gmail.com](mailto:tapiadiego16@gmail.com)
 - **Phone:** +593 984239035
 - **Residence:** Cuenca, Ecuador
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Tapia%20Vasquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-tapia-vasquez-892b11276/)
+
 
 ## More About Me
 
