@@ -1,12 +1,47 @@
 # Juan Diego Tapia Vasquez
 
-Hello! I am a technology enthusiast and a graduate of Computer Engineering at Universidad Politécnica Salesiana (Ecuador)
+Data Scientist / Machine Learning Engineer with a strong background in Data Analysis, 
+Machine Learning, and Big Data. Computer Science Engineer graduated from Universidad 
+Politécnica Salesiana (Ecuador), with experience developing predictive models, ETL 
+pipelines, and data-driven solutions.
+
+---
+
+## 🧠 Core Skills
+
+### Data Science & Machine Learning
+- Machine Learning & Deep Learning (CNNs, Random Forest, SVM)
+- Data Mining & Pattern Discovery
+- Model training, validation, and evaluation
+
+### Data Analysis & Big Data
+- Exploratory Data Analysis (EDA)
+- ETL processes using Jupyter Notebooks
+- Apache Spark (PySpark)
+- Data visualization with Tableau
+
+### Programming
+- Python (Data Science, ML, ETL)
+- Java (Mid level)
+- R (Basic)
+
+### Databases
+- SQL: Oracle, SQL Server, PostgreSQL
+- NoSQL: MongoDB
+
+### Methodologies
+- CRISP-DM for Data Science projects
+- Agile / Scrum (collaboration in iterative development)
+
+---
 
 ## Languages and Tools:
 
 - **Programming Languages:**
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Frontend Development:**
@@ -28,9 +63,33 @@ Hello! I am a technology enthusiast and a graduate of Computer Engineering at Un
 
 - **[Predicting bank marketing with AI](https://github.com/juandtap/MachineLearningServices):** Using Python with Django for the deployment of Machine Learning classifiers (Naive Bayes and Neural Networks) for marketing campaign classification.
 
-- **[Bluetooth Data Transmission App](https://github.com/juandtap/SalaMultiSensorial):**  Desktop App developed in Python (using Qt5) for the CATEDRA UNESCO  at UPS
+  - Development and deployment of Machine Learning models (Naive Bayes, Neural Networks)
+  - End-to-end ML pipeline using Python and Django
+  - Focused on classification and business decision support
 
 - **[Heart Attack Prediction using Random Forest and SVM](https://github.com/juandtap/ML_Random_Forest_SVM):** Jupyter Notebooks for Heart Attack Prediction using Random Forest and SVM, with fine-tuning to optimize model performance and achieve the best predictive accuracy.
+  - Predictive modeling using Random Forest and SVM
+  - Hyperparameter tuning to optimize model performance
+  - Analysis and evaluation using Jupyter Notebooks
+
+- **[Data Mining with PySpark – Flight Delay Analysis](https://github.com/juandtap/datamining-pyspark)**
+  
+  - Large-scale data processing using Apache Spark (PySpark)
+  - ETL and exploratory data analysis on US flight on-time performance data (2016)
+  - Application of data mining techniques to identify delay patterns
+
+- **[Data Collection Pipeline – University Degrees (Ecuador)](https://github.com/juandtap/senescyt-ec-university-degree-scraper)**
+
+  - Automated data extraction from public SENESCYT sources using Python
+ 
+---
+
+### 📊 Data Visualization Dashboard
+🔗 Tableau Public Dashboard  
+[Análisis Base de datos matrícula de UEP 2020-2022](https://public.tableau.com/app/profile/diego.tapia8180/viz/AnlisisBasededatosmatrculadeUEP2020-2022/BasededatosdematrculadeUEP2020-2022)
+
+- Interactive dashboards for data analysis and trend exploration
+- Support for data-driven decision making
 
 ## My GitHub Stats
 
@@ -44,13 +103,14 @@ Hello! I am a technology enthusiast and a graduate of Computer Engineering at Un
 
 ## More About Me
 
-I am a Computer Science Engineering student with a focus on teamwork and adaptability, leadership skills, communication, and self-learning. I am passionate about artificial intelligence, Data Science and backend development.
+I am a Computer Science Engineer with a focus on teamwork and adaptability, leadership skills, communication, and self-learning. I am passionate about artificial intelligence, Data Science and backend development.
 
 I am also a Linux enthusiast and use both Debian ![Debian](https://img.shields.io/badge/Debian-%23A80030?style=for-the-badge&logo=debian&logoColor=white) and Arch-based distributions ![Arch](https://img.shields.io/badge/Arch-%230A84FF?style=for-the-badge&logo=arch-linux&logoColor=white). I enjoy exploring different Linux environments and customizing them to optimize my workflow.
 
+### Career Goal
 
-### Future Goals
-
-My goal is to secure an international position where I can contribute my skills and expertise while continuing to grow professionally. I am particularly interested in roles that allow me to work on cutting-edge AI technologies, innovative backend solutions, and data analysis or data science.
+To work as a Data Scientist or Machine Learning Engineer, contributing to data-driven 
+decision-making and advanced analytics projects, while continuing to grow in the field 
+of Data Science and Artificial Intelligence.
 
 Feel free to reach out to me if you would like to discuss potential collaborations, job opportunities, or simply to connect!
