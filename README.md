@@ -77,6 +77,19 @@ pipelines, and data-driven solutions.
   - Large-scale data processing using Apache Spark (PySpark)
   - ETL and exploratory data analysis on US flight on-time performance data (2016)
   - Application of data mining techniques to identify delay patterns
+ 
+- **[Applied Machine Learning – Brain Tumor Segmentation](https://github.com/leonardoAndresCrespoSarango/Flask-Server-to-Brain-Tumor-Segmentation)**
+  
+  *[Jupyter Notebooks](https://github.com/juandtap/jupyternotebooks-tesis)*
+  
+  - Development of deep learning models for brain tumor segmentation using MRI images
+  - Data preprocessing and ETL pipelines
+  - Generation of synthetic data to improve dataset balance
+  - Model validation and evaluation using performance metrics
+  - Deployment of the model through a Flask-based
+    
+  
+
 
 - **[Data Collection Pipeline – University Degrees (Ecuador)](https://github.com/juandtap/senescyt-ec-university-degree-scraper)**
 
