@@ -35,6 +35,57 @@ pipelines, and data-driven solutions.
 
 ---
 
+## Featured Projects
+
+- **[Predicting bank marketing with AI](https://github.com/juandtap/MachineLearningServices):** Using Python with Django for the deployment of Machine Learning classifiers (Naive Bayes and Neural Networks) for marketing campaign classification.
+
+  - Development and deployment of Machine Learning models (Naive Bayes, Neural Networks)
+  - End-to-end ML pipeline using Python and Django
+  - Focused on classification and business decision support
+
+- **[Customer Recovery Prediction – Technical Assessment ](https://github.com/juandtap/pruebatecnica)**
+
+  *Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib*
+
+  - Performed exploratory data analysis (EDA), feature engineering, and predictive modeling for customer recovery prediction.
+  - Developed a Logistic Regression model using Scikit-learn and evaluated its performance with classification metrics.
+  - Presented business-oriented insights and recommendations based on data analysis.
+
+- **[Heart Attack Prediction using Random Forest and SVM](https://github.com/juandtap/ML_Random_Forest_SVM):** Jupyter Notebooks for Heart Attack Prediction using Random Forest and SVM, with fine-tuning to optimize model performance and achieve the best predictive accuracy.
+  - Predictive modeling using Random Forest and SVM
+  - Hyperparameter tuning to optimize model performance
+  - Analysis and evaluation using Jupyter Notebooks
+
+- **[Data Mining with PySpark – Flight Delay Analysis](https://github.com/juandtap/datamining-pyspark)**
+  
+  - Large-scale data processing using Apache Spark (PySpark)
+  - ETL and exploratory data analysis on US flight on-time performance data (2016)
+  - Application of data mining techniques to identify delay patterns
+ 
+- **[Applied Machine Learning – Brain Tumor Segmentation](https://github.com/leonardoAndresCrespoSarango/Flask-Server-to-Brain-Tumor-Segmentation)**
+  
+  *[Jupyter Notebooks](https://github.com/juandtap/jupyternotebooks-tesis)*
+  
+  - Development of deep learning models for brain tumor segmentation using MRI images
+  - Data preprocessing and ETL pipelines
+  - Generation of synthetic data to improve dataset balance
+  - Model validation and evaluation using performance metrics
+  - Deployment of the model through a Flask-based
+    
+- **[Data Collection Pipeline – University Degrees (Ecuador)](https://github.com/juandtap/senescyt-ec-university-degree-scraper)**
+
+  - Automated data extraction from public SENESCYT sources using Python
+ 
+---
+
+### 📊 Data Visualization Dashboard
+🔗 Tableau Public Dashboard  
+[Análisis Base de datos matrícula de UEP 2020-2022](https://public.tableau.com/app/profile/diego.tapia8180/viz/AnlisisBasededatosmatrculadeUEP2020-2022/BasededatosdematrculadeUEP2020-2022)
+
+- Interactive dashboards for data analysis and trend exploration
+- Support for data-driven decision making
+
+---
 ## Languages and Tools:
 
 - **Programming Languages:**
@@ -59,57 +110,7 @@ pipelines, and data-driven solutions.
 - **Tools:**
   ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Projects
 
-- **[Predicting bank marketing with AI](https://github.com/juandtap/MachineLearningServices):** Using Python with Django for the deployment of Machine Learning classifiers (Naive Bayes and Neural Networks) for marketing campaign classification.
-
-  - Development and deployment of Machine Learning models (Naive Bayes, Neural Networks)
-  - End-to-end ML pipeline using Python and Django
-  - Focused on classification and business decision support
-
-- **[Heart Attack Prediction using Random Forest and SVM](https://github.com/juandtap/ML_Random_Forest_SVM):** Jupyter Notebooks for Heart Attack Prediction using Random Forest and SVM, with fine-tuning to optimize model performance and achieve the best predictive accuracy.
-  - Predictive modeling using Random Forest and SVM
-  - Hyperparameter tuning to optimize model performance
-  - Analysis and evaluation using Jupyter Notebooks
-
-- **[Data Mining with PySpark – Flight Delay Analysis](https://github.com/juandtap/datamining-pyspark)**
-  
-  - Large-scale data processing using Apache Spark (PySpark)
-  - ETL and exploratory data analysis on US flight on-time performance data (2016)
-  - Application of data mining techniques to identify delay patterns
- 
-- **[Applied Machine Learning – Brain Tumor Segmentation](https://github.com/leonardoAndresCrespoSarango/Flask-Server-to-Brain-Tumor-Segmentation)**
-  
-  *[Jupyter Notebooks](https://github.com/juandtap/jupyternotebooks-tesis)*
-  
-  - Development of deep learning models for brain tumor segmentation using MRI images
-  - Data preprocessing and ETL pipelines
-  - Generation of synthetic data to improve dataset balance
-  - Model validation and evaluation using performance metrics
-  - Deployment of the model through a Flask-based
-    
-- **[Customer Recovery Prediction – Technical Assessment ](https://github.com/juandtap/pruebatecnica)**
-
-  *Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib*
-
-  - Performed exploratory data analysis (EDA), feature engineering, and predictive modeling for customer recovery prediction.
-  - Developed a Logistic Regression model using Scikit-learn and evaluated its performance with classification metrics.
-  - Presented business-oriented insights and recommendations based on data analysis.
-
-
-
-- **[Data Collection Pipeline – University Degrees (Ecuador)](https://github.com/juandtap/senescyt-ec-university-degree-scraper)**
-
-  - Automated data extraction from public SENESCYT sources using Python
- 
----
-
-### 📊 Data Visualization Dashboard
-🔗 Tableau Public Dashboard  
-[Análisis Base de datos matrícula de UEP 2020-2022](https://public.tableau.com/app/profile/diego.tapia8180/viz/AnlisisBasededatosmatrculadeUEP2020-2022/BasededatosdematrculadeUEP2020-2022)
-
-- Interactive dashboards for data analysis and trend exploration
-- Support for data-driven decision making
 
 ## My GitHub Stats
 
