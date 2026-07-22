@@ -88,7 +88,7 @@ pipelines, and data-driven solutions.
   - Model validation and evaluation using performance metrics
   - Deployment of the model through a Flask-based
     
--- **[Customer Recovery Prediction – Technical Assessment ](https://github.com/juandtap/pruebatecnica)**
+- **[Customer Recovery Prediction – Technical Assessment ](https://github.com/juandtap/pruebatecnica)**
 
   *Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib*
 
