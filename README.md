@@ -88,7 +88,14 @@ pipelines, and data-driven solutions.
   - Model validation and evaluation using performance metrics
   - Deployment of the model through a Flask-based
     
-  
+-- **[Customer Recovery Prediction – Technical Assessment ](https://github.com/juandtap/pruebatecnica)**
+
+  *Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib*
+
+  - Performed exploratory data analysis (EDA), feature engineering, and predictive modeling for customer recovery prediction.
+  - Developed a Logistic Regression model using Scikit-learn and evaluated its performance with classification metrics.
+  - Presented business-oriented insights and recommendations based on data analysis.
+
 
 
 - **[Data Collection Pipeline – University Degrees (Ecuador)](https://github.com/juandtap/senescyt-ec-university-degree-scraper)**
