@@ -114,7 +114,7 @@ pipelines, and data-driven solutions.
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandtap&layout=compact&hide=Jupyter%20Notebook,HTML)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=juandtap&layout=compact&hide=Jupyter%20Notebook,HTML)
 
 ## Contact
 
